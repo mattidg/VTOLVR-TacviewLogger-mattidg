@@ -127,3 +127,7 @@ If you wish to report any bugs you can do so by creating a new Issue in this Git
  - mattidg
          -  Providing some updates to support the latest version of VTOL VR.
 
+## Additional Instructions
+
+1. Download the file in TacViewDataLogger/bin/Builds/TacViewDataLogger.dll
+2. Replace the TacViewDataLogger.dll in the current mod with the one download from this repository, this file can be found in \VTOLVR_ModLoader\mods\Tacview_Data_Logger
