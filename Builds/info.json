@@ -1,0 +1,19 @@
+{
+  "name": "TacViewDataLogger",
+  "description": "TacViewDataLogger - Mattidg",
+  "dll_file": "TacViewDataLogger.dll",
+  "last_edit": 638183752340809365,
+  "pub_id": "",
+  "json_version": "",
+  "version": "",
+  "tagline": "",
+  "repository": "",
+  "is_public": false,
+  "unlisted": false,
+  "preview_image": "",
+  "web_preview_image": "",
+  "dependencies": null,
+  "mod_dependencies": null,
+  "menu_mod": false,
+  "ContentType": 3
+}
