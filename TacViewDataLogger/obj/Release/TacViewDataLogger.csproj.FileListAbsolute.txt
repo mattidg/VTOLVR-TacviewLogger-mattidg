@@ -1,0 +1,16 @@
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\TacViewDataLogger\TacViewDataLogger\bin\Builds\TacViewDataLogger.dll
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\TacViewDataLogger\TacViewDataLogger\bin\Builds\TacViewDataLogger.pdb
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\TacViewDataLogger\TacViewDataLogger\bin\Builds\0Harmony.dll
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\TacViewDataLogger\TacViewDataLogger\bin\Builds\Assembly-CSharp.dll
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\TacViewDataLogger\TacViewDataLogger\bin\Builds\ModLoader.dll
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\TacViewDataLogger\TacViewDataLogger\bin\Builds\UnityEngine.CoreModule.dll
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\TacViewDataLogger\TacViewDataLogger\bin\Builds\UnityEngine.dll
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\TacViewDataLogger\TacViewDataLogger\bin\Builds\UnityEngine.PhysicsModule.dll
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\TacViewDataLogger\TacViewDataLogger\bin\Builds\UnityEngine.VRModule.dll
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\TacViewDataLogger\TacViewDataLogger\bin\Builds\UnityEngine.XRModule.dll
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\TacViewDataLogger\TacViewDataLogger\bin\Builds\ModLoader.xml
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\TacViewDataLogger\TacViewDataLogger\obj\Release\TacViewDataLogger.csproj.AssemblyReference.cache
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\TacViewDataLogger\TacViewDataLogger\obj\Release\TacViewDataLogger.csproj.CoreCompileInputs.cache
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\TacViewDataLogger\TacViewDataLogger\obj\Release\TacViewDataLogger.csproj.CopyComplete
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\TacViewDataLogger\TacViewDataLogger\obj\Release\TacViewDataLogger.dll
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\TacViewDataLogger\TacViewDataLogger\obj\Release\TacViewDataLogger.pdb
